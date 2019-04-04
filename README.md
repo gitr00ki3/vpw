@@ -65,7 +65,8 @@ Run **nldr_interactive.m** file to open the interactive window. <img src="01_How
     <td><img src="results/012_12_NLDRTwinPeakwHole_LTSA_NN10.png" width=250></img></td>
   </tr>
 </table>
-## Citations
+
+## References
 <ol>
 	<li>Manifold Regularization: a Geometric Framework for Learning from Examples, M. Belkin, P. Niyogi, V. Sindhwani, University of Chicago Computer Science Technical Report TR-2004-06, 2004, http://manifold.cs.uchicago.edu/manifold_regularization/manifold.html</li>
 	<li>Nonlinear dimensionality reduction by locally linear embedding, Sam Roweis & Lawrence Saul, Science, v.290 no.5500 , Dec.22, 2000. pp.2323--2326, https://cs.nyu.edu/~roweis/lle/code.html</li>
